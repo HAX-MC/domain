@@ -1,1 +1,9 @@
-
+{
+    "owner": {
+        "username": "HAX-MC",
+        "email": "haxmc@proton.me"
+    },
+    "record": {
+        "TXT": "test"
+    }
+}
